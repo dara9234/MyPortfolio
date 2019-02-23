@@ -3,24 +3,36 @@
 html,body {
   height: 100%;
   width: 100%;
-  font-family: 'Poppings' , sans-serif;
-  color: #222;
+  font-family: 'Kavivanar';
+  font-size: 1rem;
+  color: black;
 }
 
 
 
 .navbar {
-padding: .8rem;
-margin-top: 5px;
+padding: .5rem;
+margin-top: 4px;
 }
 
 .navbar-nav li {
-  padding-right:  20px;
+  padding-right:  25px;
   
 }
 
+.navbar-nav li:hover {
+  border: 0.5px solid #d9b310; 
+ 
+}
+
 .nav-link {
-  font-size: 1.1em !important;
+   font-size: 1.5em; 
+  
+}
+
+.btn-link:hover{
+  
+  border: 2px solid #d9b310;
 }
 
 .jumbotron {
@@ -40,20 +52,20 @@ margin-top: 5px;
 
 .welcome hr {
 
-  border-top: 2px solid #b4b4b4;
+  border-top: 2px solid crimson;
   width: 95%;
   margin-top: .3rem;
   margin-bottom: 1rem;
 }
 
 .btn-primary {
-  background-color: #6648b1;
-  border: 1px solid #6648b1;
+  background-color: #1d2731;
+  border: 1px solid #d9b310;
 }
 
 .btn-primary:hover {
   background-color: #563d7c;
-  border: 1px solid #563d7c;
+  border: 1px solid #d9b310;
 }
 
 .social a {
@@ -102,13 +114,18 @@ color:#0077B5;
 
 footer {
 
-  background-color: #575656;
-  color: #d5d5d5;
+  background-color: #1d2731;
+  color:#d9b310;
   padding-top: 2rem;
+  /* padding-bottom: 1rem; */
+  width:100%;
+  /* height: 100%; */
+  /* margin-top: 20%; */
+  text-align: center;
 }
 
 hr.light {
-  border-top: 1px solid #d5d5d5;
+  border-top: 1px solid crimson;
 }
 
 
@@ -132,11 +149,31 @@ hr.light {
 @media (max-width: 576px) {
   .display-4 {
     font-size: 160%;
+    text-align: center;
   }
   .social a {
    font-size: 2em;
    padding: .7rem;
  }
+}
+
+.btn-outline-secondary{
+
+  background-color:#1d2731;
+  color: white;
+}
+
+.btn-outline-secondary:hover{
+  
+  border: 2px solid #d9b310;
+}
+
+.card-text{
+color: black;
+}
+
+.card-title{
+color: black;
 }
 
 
@@ -151,8 +188,9 @@ hr.light {
 }
  
 body {
-  font-family:"Kavivanar", cursive;
-  background: #057cdda2;
+  font-family:"Kavivanar";
+  background:  #0b3cbd;
+  color: white;
 }
  
 .wrapper {
@@ -230,19 +268,24 @@ body {
  
 /* bottom-form */
 .bottom-form textarea {
-  height: 120px;
+  height: 150px;
 }
  
-.btn {
-  background: #000102;
+.btn1 {
+  background: black;
   width: 200px;
   padding: 10px 0;
   border-radius: 2px;
   text-align: center;
-  color: rgb(250, 249, 249);
+  color: white;
   text-transform: uppercase;
   letter-spacing: 5px;
   cursor: pointer;
+}
+
+.btn1:hover{
+  
+  border: 2px solid #d9b310;
 }
  
 ::-webkit-input-placeholder {
