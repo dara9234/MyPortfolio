@@ -1,5 +1,6 @@
 # MyPortfolio
-Updating My Portfolio
+
+`Updating My Portfolio`
 
 This portfolio showcase my personality, my education and most of the projects I have done which show my employer ready skills! My focus was to make the portfolio moile-responsive while designing.
 
@@ -11,14 +12,22 @@ Am always looking for positive reinforcement from you all!
 
 Thanks
 
-Links to the projects:
+#Links to the projects:
 
-https://dara9234.github.io/GiphyGameSearch/ https://github.com/dara9234/GiphyGameSearch
+* [Giphy Game Search](https://dara9234.github.io/GiphyGameSearch/)
 
-https://dara9234.github.io/Train-Schedular/ https://github.com/dara9234/Train-Schedular
+* [Train Schedular](https://dara9234.github.io/Train-Schedular/) 
 
-https://dara9234.github.io/TriviaGame/ https://github.com/dara9234/TriviaGame
+* [Trivia Game](https://dara9234.github.io/TriviaGame/) 
 
-https://dara9234.github.io/unit-4-game/ https://github.com/dara9234/unit-4-game
+* [Crystals Collectors](https://dara9234.github.io/unit-4-game/) 
 
-https://ambellinger.github.io/team1groupproject// https://github.com/ambellinger/team1groupproject
+* [Let's Cook Project](https://ambellinger.github.io/team1groupproject/)
+
+* [Eat Da Burger](https://dara9234.github.io/burgerRepo/)
+
+* [Friend Finder](https://dara9234.github.io/FriendFinder/)
+
+* [Bamazon](https://dara9234.github.io/bamazon/)
+
+* [CollegeRunway Project](https://collegerunway.herokuapp.com/)
