@@ -1,4 +1,4 @@
-# MyPortfolio
+### MyPortfolio
 
 `Updating My Portfolio`
 
@@ -12,7 +12,7 @@ Am always looking for positive reinforcement from you all!
 
 Thanks
 
-#Links to the projects:
+### Links to the projects:
 
 * [Giphy Game Search](https://dara9234.github.io/GiphyGameSearch/)
 
@@ -25,6 +25,10 @@ Thanks
 * [Let's Cook Project](https://ambellinger.github.io/team1groupproject/)
 
 * [Eat Da Burger](https://dara9234.github.io/burgerRepo/)
+
+* [News Scraping](https://darakhscrape-live1.herokuapp.com/)
+
+* [ClickyGameDisneyCats](https://dara9234.github.io/ClickyGameDisneyCats/)
 
 * [Friend Finder](https://dara9234.github.io/FriendFinder/)
 
