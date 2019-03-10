@@ -162,12 +162,17 @@ hr.light {
   background-color:#1d2731;
   color: white;
   padding: 15px 15px 15px 50px;
+  text-align: center;
  
 }
 
 .btn-outline-secondary:hover{
   
   border: 2px solid #d9b310;
+}
+
+.btn{
+  text-align: center;
 }
 
 .card-text{
